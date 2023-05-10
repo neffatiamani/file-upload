@@ -1,0 +1,21 @@
+#title
+{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-left: 500px;
+    margin-top: 2%;
+}
+
+#box
+{
+    padding-left: 50px;
+}
+#final
+{
+    padding-left: 50px;
+}
+#grid
+{
+    padding-left: 50px;
+}
